@@ -1,0 +1,148 @@
+.triangle15 {
+    width: 0;
+    height: 0;
+    border-left: 250px solid transparent;
+    border-right: 250px solid transparent;
+    border-top: 500px solid rgb(236, 247, 255); /* Creates a downwards pointing triangle */
+    position:absolute;top:4px;left:-242px;
+  }
+
+.triangle1 {
+    width: 0;
+    height: 0;
+    border-left: 250px solid transparent;
+    border-right: 250px solid transparent;
+    border-bottom: 500px solid red; /* Creates an upwards pointing triangle */
+    position:relative;left:0px;
+  }
+
+  .triangle2 {
+    width: 0;
+    height: 0;
+    border-left: 250px solid transparent;
+    border-right: 250px solid transparent;
+    border-top: 500px solid rgb(204, 235, 255); 
+    position:relative;bottom:500px;left:250px;
+  }
+
+  .triangle3 {
+    width: 0;
+    height: 0;
+    border-left: 250px solid transparent;
+    border-right: 250px solid transparent;
+    border-bottom: 500px solid rgb(255, 80, 80); 
+    position:relative;bottom:1000px;left:500px;
+  }
+
+  .triangle4 {
+    width: 0;
+    height: 0;
+    border-left: 250px solid transparent;
+    border-right: 250px solid transparent;
+    border-top: 500px solid rgb(157, 216, 255); /* Creates a downward-pointing triangle */
+    position:relative;bottom:1500px;left:750px;
+  }
+
+  .triangle9 {
+    width: 0;
+    height: 0;
+    border-left: 250px solid transparent;
+    border-right: 250px solid transparent;
+    border-bottom: 500px solid rgb(255, 115, 115); /* Creates an upward-pointing triangle */
+    position:relative;bottom:2000px;left:1000px;
+  }
+
+  .triangle11 {
+    width: 0;
+    height: 0;
+    border-left: 250px solid transparent;
+    border-right: 250px solid transparent;
+    border-top: 500px solid rgb(138, 208, 255); /* Creates a downward-pointing triangle */
+    position:relative;bottom:2500px;left:1250px;
+  }
+
+  .triangle13 {
+    width: 0;
+    height: 0;
+    border-left: 250px solid transparent;
+    border-right: 250px solid transparent;
+    border-bottom: 500px solid rgb(255, 147, 147); /* Creates an upward-pointing triangle */
+    position:relative;bottom:3000px;left:1500px;
+  }
+
+
+
+
+
+  .triangle16 {
+    width: 0;
+    height: 0;
+    border-left: 250px solid transparent;
+    border-right: 250px solid transparent;
+    border-bottom: 500px solid rgb(0, 47, 255); 
+    position:absolute;top:508px;left:-242px;
+     }
+
+  .triangle5 {
+    width: 0;
+    height: 0;
+    border-left: 250px solid transparent;
+    border-right: 250px solid transparent;
+    border-top: 500px solid rgb(255, 226, 226); 
+    position:absolute;top:508px;left:8px;
+     }   
+
+  .triangle6 {
+    width: 0;
+    height: 0;
+    border-left: 250px solid transparent;
+    border-right: 250px solid transparent;
+    border-bottom: 500px solid rgb(62, 98, 255); 
+    position:absolute;top:508px;left:258px;
+     }
+     
+.triangle7 {
+    width: 0;
+    height: 0;
+    border-left: 250px solid transparent;
+    border-right: 250px solid transparent;
+    border-top: 500px solid rgb(255, 182, 182); 
+    position:absolute;top:508px;left:508px;
+}   
+
+.triangle8 {
+    width: 0;
+    height: 0;
+    border-left: 250px solid transparent;
+    border-right: 250px solid transparent;
+    border-bottom: 500px solid rgb(145, 165, 255); 
+    position:absolute;top:508px;left:758px;
+    }
+
+.triangle10 {
+    width: 0;
+    height: 0;
+    border-left: 250px solid transparent;
+    border-right: 250px solid transparent;
+    border-top: 500px solid rgb(255, 68, 68); 
+    position:absolute;top:508px;left:1008px; 
+}
+
+.triangle12 {
+    width: 0;
+    height: 0;
+    border-left: 250px solid transparent;
+    border-right: 250px solid transparent;
+    border-bottom: 500px solid rgb(196, 206, 255); 
+    position:absolute;top:508px;left:1258px;
+    }
+.triangle14 {
+    width: 0;
+    height: 0;
+    border-left: 250px solid transparent;
+    border-right: 250px solid transparent;
+    border-top: 500px solid rgb(255, 0, 0); 
+    position:absolute;top:508px;left:1508px; 
+}
+      
+
